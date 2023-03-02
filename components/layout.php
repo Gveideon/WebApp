@@ -24,7 +24,7 @@
                 <a href="auth.php">Авторизация</a>
             </li>
             <li>
-                <a href="hidden_page.php">Скрытая страница</a>
+                <a href="hidden.php">Скрытая страница</a>
             </li>
         </ul>
     </nav>
